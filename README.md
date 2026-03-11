@@ -75,7 +75,7 @@ This dashboard provides a detailed analysis of Adidas sales performance across r
 
 # 👨‍💻 Author
 
-**Shanshakar Singhaniya**
+** RAJ KUMAR **
 
 Aspiring **Data Analyst | Tableau | Power BI | SQL | Excel**
 
